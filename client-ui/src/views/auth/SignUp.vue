@@ -142,7 +142,7 @@
                 />
               </el-form-item>
             </div>
-
+<!--
             <div class="mt-lg-5">
               <el-form-item prop="role">
                 <label class="form-label fw-bolder text-gray-900 fs-6">{{
@@ -166,7 +166,7 @@
                   />
                 </el-select>
               </el-form-item>
-            </div>
+            </div> -->
             <div class="menu-content">
               <label
                 class="form-check form-switch form-check-custom form-check-solid"
